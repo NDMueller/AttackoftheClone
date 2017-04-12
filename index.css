@@ -1,0 +1,33 @@
+h2 {
+	text-align: right;
+	margin-right: 2%;
+}
+
+h3{
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h5{
+	text-align: center;
+}
+
+hr {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.wrapper{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.row section{
+	height: 100px;
+	width: 200px;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
